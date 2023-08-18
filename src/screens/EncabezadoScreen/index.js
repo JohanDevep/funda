@@ -1,0 +1,1 @@
+export { EncabezadoScreen } from "./EncabezadoScreen";
